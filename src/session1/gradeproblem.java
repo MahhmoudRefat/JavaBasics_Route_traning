@@ -18,7 +18,8 @@ public class gradeproblem {
      if (grade<=100 && grade >= 90){
      System.out.println("A");
      }
-     
-     
+     else if (grade<=89 && grade >= 80){
+     }
+     System.out.println("B");
      }
 }
